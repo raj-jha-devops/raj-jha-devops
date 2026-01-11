@@ -1,91 +1,96 @@
-# 🚀 Raj Jha | DevOps Engineer
+# 🚀 Raj Jha | Senior DevOps Engineer
 
-💻 **DevOps Engineer | Cloud Engineer | Azure | Terraform | Docker | Kubernetes | CI/CD**
+☁️ **DevOps Engineer | Cloud Engineer | Azure | Terraform | Docker | Kubernetes | CI/CD | DevSecOps**
 
-🌐 **Portfolio (GitHub Pages):**
-👉 [https://raj-jha-devops.github.io/terraform-azure-infra/](https://raj-jha-devops.github.io/terraform-azure-infra/)
+🌐 **Portfolio (GitHub Pages):**  
+👉 https://raj-jha-devops.github.io/terraform-azure-infra/
 
-
+---
 
 ## 👋 About Me
 
-I am a **DevOps Engineer** passionate about building **scalable, secure, and automated cloud infrastructure** using **Infrastructure as Code (IaC)** and **CI/CD pipelines**.
+🚀 **Senior DevOps Engineer** with **10+ years of IT experience** and **7+ years of hands-on DevOps expertise** in building, automating, and operating **scalable, secure, and production-grade cloud infrastructure**.
 
-I focus on:
+I specialize in **Microsoft Azure**, **Terraform**, and **Kubernetes**, delivering **end-to-end CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **cloud automation** solutions. I have strong experience in **DevSecOps**, containerization using **Docker**, and implementing **observability and monitoring** for high-availability systems.
 
-* Cloud automation
-* Production-ready infrastructure
-* DevOps best practices
-* Clean, maintainable code
+I work closely with development, security, and operations teams in **Agile environments** to deliver **reliable, resilient, and cost-optimized platforms**.
 
+💡 *I design cloud infrastructure that developers trust and systems can scale on.*
 
+---
 
-## 🧰 Tech Stack
+## 🔧 Core Skills & Expertise
 
-### ☁️ Cloud & IaC
+### ☁️ Cloud & Infrastructure
+- Microsoft Azure
+- Azure Networking, Compute, Storage
+- High Availability & Scalability Design
 
-* Microsoft Azure
-* Terraform (IaC, modules, state management)
+### 🧱 Infrastructure as Code
+- Terraform (Reusable & Modular IaC)
+- Remote State Management
+- Environment-based deployments (Dev / QA / Prod)
 
-### 🔄 CI/CD
+### 🚢 Containers & Orchestration
+- Docker
+- Kubernetes (AKS)
+- Containerized microservices
 
-* GitHub Actions
-* Azure DevOps Pipelines
+### 🔄 CI/CD & Automation
+- GitHub Actions
+- Azure DevOps Pipelines
+- Build, Release & Deployment Automation
 
-### 📦 Containers & Orchestration
+### 🔐 DevSecOps
+- Security best practices
+- Secrets management
+- Secure CI/CD pipelines
 
-* Docker
-* Kubernetes
+### 📊 Monitoring & Observability
+- Azure Monitor
+- Application Insights
+- Prometheus
+- Grafana
 
-### 🧑‍💻 DevOps Tools
+---
 
-* Git
-* GitHub
-* Linux
-* Bash
+## 🛠️ Tech Stack
 
+**Cloud:** Azure  
+**IaC:** Terraform  
+**Containers:** Docker, Kubernetes  
+**CI/CD:** GitHub Actions, Azure DevOps  
+**Monitoring:** Azure Monitor, Prometheus, Grafana  
+**Practices:** DevOps, DevSecOps, Agile  
 
+---
 
-## 📌 Featured Project
+## 📦 Featured Projects
 
-### 🔹 Terraform Azure Infrastructure
+### ⭐ Terraform Azure Infrastructure
+Production-ready Azure infrastructure using Terraform (IaC best practices)  
+👉 https://github.com/raj-jha-devops/terraform-azure-infra
 
-**Production-ready Azure infrastructure using Terraform (IaC)**
+### ⭐ Terraform Azure VM Module
+Reusable Terraform module for Azure Virtual Machines  
+👉 (add link when ready)
 
-🔗 Repository:
-👉 [https://github.com/raj-jha-devops/terraform-azure-infra](https://github.com/raj-jha-devops/terraform-azure-infra)
+---
 
-🌐 Live Documentation (GitHub Pages):
-👉 [https://raj-jha-devops.github.io/terraform-azure-infra/](https://raj-jha-devops.github.io/terraform-azure-infra/)
+## 📈 What I Focus On
 
-**Highlights:**
+- Building **secure & scalable cloud platforms**
+- Automating **CI/CD & infrastructure workflows**
+- Improving **system reliability & observability**
+- Enabling **DevOps & DevSecOps best practices**
 
-* Modular Terraform structure
-* Azure Resource Group, networking & services
-* CI/CD ready
-* DevOps best practices
+---
 
+## 🤝 Connect With Me
 
+🔗 **GitHub:** https://github.com/raj-jha-devops  
+🔗 **LinkedIn:** (add your LinkedIn URL here)
 
-## 🚀 What I’m Working On
+---
 
-* Advanced Terraform modules
-* Azure DevOps CI/CD pipelines
-* Kubernetes deployments
-* End-to-end cloud automation projects
-
-
-
-## 🤝 Let’s Connect
-
-* 💼 **LinkedIn:** *(add your LinkedIn URL here)*
-* 🐙 **GitHub:** [https://github.com/raj-jha-devops](https://github.com/raj-jha-devops)
-
-
-
-⭐ *If you like my work, feel free to star the repositories!*
-
-
-
-
-
+⭐ *If you find my projects helpful, feel free to star the repositories!*
