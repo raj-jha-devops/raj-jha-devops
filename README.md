@@ -5,7 +5,7 @@
 🌐 **Portfolio (GitHub Pages):**
 👉 [https://raj-jha-devops.github.io/terraform-azure-infra/](https://raj-jha-devops.github.io/terraform-azure-infra/)
 
----
+
 
 ## 👋 About Me
 
@@ -18,7 +18,7 @@ I focus on:
 * DevOps best practices
 * Clean, maintainable code
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -44,7 +44,7 @@ I focus on:
 * Linux
 * Bash
 
----
+
 
 ## 📌 Featured Project
 
@@ -65,7 +65,7 @@ I focus on:
 * CI/CD ready
 * DevOps best practices
 
----
+
 
 ## 🚀 What I’m Working On
 
@@ -74,18 +74,18 @@ I focus on:
 * Kubernetes deployments
 * End-to-end cloud automation projects
 
----
+
 
 ## 🤝 Let’s Connect
 
 * 💼 **LinkedIn:** *(add your LinkedIn URL here)*
 * 🐙 **GitHub:** [https://github.com/raj-jha-devops](https://github.com/raj-jha-devops)
 
----
+
 
 ⭐ *If you like my work, feel free to star the repositories!*
 
 
 
-Bas bolo: **“next level profile banao”** 😎
+
 
