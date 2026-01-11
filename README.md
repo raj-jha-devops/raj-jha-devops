@@ -1,9 +1,3 @@
-Perfect 👍
-**Ab main tumhe POORA, READY-TO-PASTE `README.md` de raha hoon**
-👉 Bas copy → paste → save → profile front page professional ban jaayega 🔥
-
----
-
 # 🚀 Raj Jha | DevOps Engineer
 
 💻 **DevOps Engineer | Cloud Engineer | Azure | Terraform | Docker | Kubernetes | CI/CD**
