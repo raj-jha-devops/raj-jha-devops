@@ -4,7 +4,13 @@ I build **secure, scalable, and production-grade cloud platforms on Microsoft Az
 
 ☁️ Azure | Terraform | AKS | CI/CD | DevSecOps | Observability
 
----
+🔗 **Portfolio / Dashboard:**  
+     https://raj-jha-devops.github.io/terraform-azure-infra/
+
+🔗 **GitHub:** https://github.com/raj-jha-devops  
+🔗 **LinkedIn:** https://www.linkedin.com/in/raj-jha-0990b4317
+
+
 
 ## 👋 About Me
 
@@ -19,7 +25,7 @@ I collaborate closely with **developers, security, and operations teams** in Agi
 
 💡 *I design cloud infrastructure that developers trust and systems can scale on.*
 
----
+
 
 ## 🏆 Key Achievements (Impact-Driven)
 
@@ -30,7 +36,7 @@ I collaborate closely with **developers, security, and operations teams** in Agi
 - 📊 Improved observability using **Azure Monitor, Prometheus & Grafana**  
 - ✅ Supported **99.9% uptime** for production workloads  
 
----
+
 
 ## 🔧 Core Skills & Expertise
 
