@@ -4,11 +4,7 @@
   <b>Senior DevOps / SRE Engineer</b><br/>
   Cloud Infrastructure · Kubernetes · CI/CD · Infrastructure Automation
 </p>
-## 🔁 DevOps / SRE Workflow
 
-<p align="center">
-  <img src="assets/devops-sre-workflow.svg" alt="DevOps SRE Workflow" width="720"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
