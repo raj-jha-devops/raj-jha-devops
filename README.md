@@ -112,4 +112,5 @@ GitHub Actions · Azure Pipelines · Prometheus · Grafana
 ## 📬 Contact
 
 - 🔗 GitHub: https://github.com/raj-jha-devops  
-- 🔗 LinkedIn: https://www.linkedin.com/in/raj-jha-0990b4317  
+- 🔗 LinkedIn: https://www.linkedin.com/in/raj-jha-0990b4317
+- 🔗 Portfolio: https://raj-jha-devops.github.io/raj-portfolio/
