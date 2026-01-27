@@ -71,7 +71,7 @@ I collaborate closely with **developers, security, and operations teams** in Agi
 - Prometheus  
 - Grafana  
 
----
+
 
 ## 📦 Featured Projects
 
@@ -84,20 +84,20 @@ I collaborate closely with **developers, security, and operations teams** in Agi
 
 👉 https://github.com/raj-jha-devops/terraform-azure-infra
 
----
+
 
 ### ⭐ Terraform Azure Platform
 Enterprise-style Azure platform foundation using Terraform
 
 👉 https://github.com/raj-jha-devops/terraform-azure-platform
 
----
+
 
 ### ⭐ Terraform Azure VM Module *(Coming Soon)*
 Reusable Terraform module for Azure Virtual Machines  
 👉 Repo link will be added
 
----
+
 
 ## 📈 What I Focus On
 - Building **secure & scalable cloud platforms**  
@@ -105,7 +105,7 @@ Reusable Terraform module for Azure Virtual Machines
 - Improving **system reliability & observability**  
 - Enabling **DevOps & DevSecOps best practices**
 
----
+
 
 ## 🤝 Let’s Connect
 - 🔗 GitHub: https://github.com/raj-jha-devops  
