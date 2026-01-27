@@ -28,7 +28,7 @@ DevOps / SRE Engineer with **9+ years of experience** in Cloud Infrastructure, K
 Expert in **Azure | Terraform | Kubernetes | GitOps** with hands-on experience in **cloud-native telecom CNF deployments**.  
 Passionate about designing **scalable platforms** and **zero-downtime production systems**.
 
----
+
 
 ## 🔭 About Me
 
@@ -37,7 +37,7 @@ Passionate about designing **scalable platforms** and **zero-downtime production
 - 🔧 **Experience:** Cloud Infra, Kubernetes, IaC, GitOps, Monitoring  
 - 💬 **Ask me about:** Terraform, Azure, AKS, CI/CD, GitOps, DevOps pipelines  
 
----
+
 
 ## 🛠️ Core Skills
 
@@ -65,23 +65,21 @@ Passionate about designing **scalable platforms** and **zero-downtime production
 - Git  
 - Bash / Python Automation
 
----
 
-## 💼 Signature Project  
-### 🚀 Telecom CNF Cloud Deployment (Zero-Downtime Migration)
+## 💼 Signature Project
 
-**Project:** Cloud-Native Telecom Platform for Carrier-Grade Network Functions
+🚀 **Cloud-Native Platform Deployment (Zero-Downtime Migration)**
 
-### 🔹 Key Achievements
-- Designed & provisioned **Azure infrastructure** for large-scale CNF workloads  
-- Deployed **Nokia Network Functions**: HSS/HLR, SDL, AUSF-UDM  
-- Implemented **GitOps automation** with ArgoCD for controlled rollouts  
-- Achieved **zero-downtime traffic migration** for live production systems  
-- Built enterprise **CI/CD pipelines** (Azure DevOps + GitHub Actions)  
-- Developed **Helm charts & Kubernetes manifests** for telecom workloads  
-- Configured **Prometheus + Grafana** monitoring with alerts & dashboards  
+- Designed & provisioned **Azure cloud infrastructure** for large-scale workloads
+- Built and operated **Kubernetes-based platforms** in production
+- Implemented **GitOps workflows** using ArgoCD for controlled releases
+- Achieved **zero-downtime deployments & traffic migration**
+- Built enterprise-grade **CI/CD pipelines** (Azure DevOps + GitHub Actions)
+- Developed **Helm charts & Kubernetes manifests** for production workloads
+- Implemented **observability stack** using Prometheus & Grafana
 
----
+
+
 
 ## 🧰 Tech Stack
 
@@ -96,14 +94,14 @@ GitHub Actions · Azure Pipelines · Prometheus · Grafana
   <img src="https://github-readme-stats.vercel.app/api?username=raj-jha-devops&show_icons=true&hide_title=true&hide_border=true" />
 </p>
 
----
+
 
 ## 🎓 Certifications
 
 - ✔ CKA – Certified Kubernetes Administrator (CNCF)  
 - ✔ Azure & DevOps Certifications *(In progress)*  
 
----
+
 
 ## 📬 Contact
 
