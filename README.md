@@ -24,9 +24,15 @@ Docker · Kubernetes · Helm · ArgoCD · Terraform · Azure · Linux · Git
 
 ## 🚀 Profile Summary
 
-DevOps / SRE Engineer with **9+ years of experience** in Cloud Infrastructure, Kubernetes, CI/CD, and Infrastructure Automation.  
-Expert in **Azure | Terraform | Kubernetes | GitOps** with hands-on experience in **cloud-native telecom CNF deployments**.  
-Passionate about designing **scalable platforms** and **zero-downtime production systems**.
+DevOps / SRE Engineer with **10+ years of experience** in building and operating reliable
+cloud infrastructure, Kubernetes platforms, and CI/CD systems.
+
+Strong expertise in **Azure, Terraform, Kubernetes, and GitOps**, with a focus on
+automation, scalability, and operational excellence.
+
+Passionate about designing **resilient platforms**, improving system reliability,
+and enabling **zero-downtime production deployments**.
+
 
 
 
