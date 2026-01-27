@@ -1,37 +1,40 @@
-<h1 align="center">Hi 👋, I'm Raj Kishore Jha</h1>
+<h1 align="center">👋 Hi, I'm Raj Kishore Jha</h1>
 
 <p align="center">
-  <b>Senior DevOps / SRE Engineer</b><br/>
-  Designing, automating & operating reliable cloud-native systems
+  <b>Senior DevOps / SRE Engineer</b> <br/>
+  Cloud · Kubernetes · Terraform · Automation · Reliability
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="40"/>
 </p>
 
 <p align="center">
-Docker · Kubernetes · Terraform · Azure · CI/CD · GitOps · SRE
+Docker · Kubernetes · Helm · ArgoCD · Terraform · Azure · Linux · Git
 </p>
 
 <hr/>
 
-## 👨‍💻 Profile Summary
+## 👨‍💻 About Me
 
 - 🔹 8+ years of experience in **DevOps & Site Reliability Engineering**
-- 🔹 Strong hands-on with **Azure & AWS infrastructure**
-- 🔹 Operating **production-grade Kubernetes platforms**
-- 🔹 Building **CI/CD & GitOps pipelines** for safe deployments
-- 🔹 Focused on **reliability, scalability, security & cost efficiency**
+- 🔹 Strong expertise in **Azure & AWS cloud platforms**
+- 🔹 Hands-on with **Kubernetes production workloads**
+- 🔹 Build **CI/CD & GitOps pipelines** for safe, fast releases
+- 🔹 Focus on **reliability, observability & automation**
 
 ---
 
-## 🧠 How I Work (SRE Mindset)
+## 🧠 SRE Way of Working
 
 ```text
-Design Systems  →  Automate Everything  →  Deploy Safely
-       ↓                   ↓                   ↓
- Reliability          CI/CD & GitOps        Observe & Improve
+Plan → Code → Build → Test → Release
+  ↑                            ↓
+ Monitor ← Operate ← Deploy ←
